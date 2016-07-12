@@ -11,7 +11,7 @@ A MySQL database should be created for the application. The application's databa
 
 This application is built to use Unicorn as the application server. This is a standard Ruby on Rails application setup, and lots of information is available online about how to configure Nginx and Unicorn.
 
-We don't expect you to have a perfect solution in the time allotted. Do as much as is reasonable to demonstrate your technical abilities.
+We don't expect you to have a perfect solution in the time allotted. Do as much as is reasonable to demonstrate your technical abilities. Please submit your work by sending us a link to a GitHub repo with your code.
 
 Bonus points for the following:
 - Make the app run in production mode
