@@ -1,4 +1,4 @@
 # Fandor Coding Challenges
 
-[Front End Challenge](front_end)
-[Infrastrucutre Challenge](infrastructure)
+- [Front End Challenge](front_end)
+- [Infrastrucutre Challenge](infrastructure)
