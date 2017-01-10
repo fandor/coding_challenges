@@ -1,6 +1,6 @@
 # Back End Challenge
 
-Your challenge is to create a simple API application using Ruby on Rails (or the web development framework of your choice). Being a SVOD service, we have film data that we need to surface through an API. Your challenge is build a small sample endpoint for retrieving film data and submitting film ratings.
+Being an SVOD service, we have film data that we need to surface through an API. Your challenge is to create a simple API application using Ruby on Rails (or the web development framework of your choice) for retrieving film data and submitting film ratings.
 
 The application should provide the following functionality:
 - RESTful endpoints for retrieving a list of films or an individual film
