@@ -8,7 +8,7 @@ The application should provide the following functionality:
 - Include average rating for a film as one of its attributes
 - Requests and responses should follow the [JSON API specification](http://jsonapi.org/)
 
-Please see [films.json](films.json) for sample film data.
+Please see [films.json](films.json) for sample film data. Please provide tests where reasonable.
 
 We don't expect you to have a perfect solution in the time allotted. Do as much as is reasonable to demonstrate your technical abilities. Please submit your work by sending us a link to a GitHub repo with your code.
 
